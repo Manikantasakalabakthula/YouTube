@@ -8,7 +8,7 @@
     left: 0;
     right: 0;
     padding: 10px;
-    background-color: white;
+    background-color: black;
     border-bottom: 1px solid rgb(214, 214, 214);
     z-index: 2;
 }
@@ -19,7 +19,7 @@
 }
 .menu{
     height: 24px;
-    color: black;
+    filter: invert(100%)
 }
 .logo{
     height: 24px;
@@ -81,6 +81,7 @@
 }
 .icon{
     height: 24px;
+    filter: invert(100%)
 }
 .profile{
     width: 40px;
