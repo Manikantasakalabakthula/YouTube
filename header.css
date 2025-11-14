@@ -9,7 +9,7 @@
     right: 0;
     padding: 10px;
     background-color: black;
-    border-bottom: 1px solid rgb(214, 214, 214);
+    border-bottom: 1px solid rgb(0, 0, 0);
     z-index: 2;
 }
 .left{
